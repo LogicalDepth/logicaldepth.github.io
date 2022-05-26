@@ -28,7 +28,7 @@ linkdin_Profile: Manik Pathania
 github_username: LogicalDepth
 
 # Build settings
-theme: Hacker
+theme: minima
 plugins:
   - jekyll-feed
 
